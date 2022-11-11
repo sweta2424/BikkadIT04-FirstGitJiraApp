@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Dell\Desktop\Sweta\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+163901335.index
+3944429752.index
+1401617200.index
+1316134632.index
+1327961992.index
+482351895.index
